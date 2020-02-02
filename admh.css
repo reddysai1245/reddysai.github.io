@@ -1,0 +1,23 @@
+body{
+	background-image: url("https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-hero-00e10b1f.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	max-width:100%;
+}
+.conta{
+margin: 4%;
+padding: 8%;
+padding-left: 16%;
+text-align: center;
+}
+h4{
+	color: #ffffff;
+}
+
+
+p{
+	color:white;
+}
+form{
+	text-align: center;
+}
